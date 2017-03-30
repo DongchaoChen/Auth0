@@ -1,0 +1,22 @@
+{
+  "name": "oauth_101",
+  "version": "1.0.0",
+  "description": "oauth101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OAuth"
+  ],
+  "author": "Dongchao Chen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
+    "passport": "^0.3.2",
+    "passport-github": "^1.1.0"
+  }
+}
